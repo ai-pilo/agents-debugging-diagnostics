@@ -1,39 +1,41 @@
 {
+  "name": "agents-debugging-diagnostics",
+  "owner": "ai-pilo",
   "plugins": [
     {
       "name": "debugging-toolkit",
       "version": "1.2.2",
-      "path": "plugins/debugging-toolkit"
+      "source": "plugins/debugging-toolkit"
     },
     {
       "name": "error-debugging",
       "version": "1.2.2",
-      "path": "plugins/error-debugging"
+      "source": "plugins/error-debugging"
     },
     {
       "name": "error-diagnostics",
       "version": "1.2.2",
-      "path": "plugins/error-diagnostics"
+      "source": "plugins/error-diagnostics"
     },
     {
       "name": "distributed-debugging",
       "version": "1.2.2",
-      "path": "plugins/distributed-debugging"
+      "source": "plugins/distributed-debugging"
     },
     {
       "name": "context-management",
       "version": "1.2.2",
-      "path": "plugins/context-management"
+      "source": "plugins/context-management"
     },
     {
       "name": "agent-orchestration",
       "version": "1.2.2",
-      "path": "plugins/agent-orchestration"
+      "source": "plugins/agent-orchestration"
     },
     {
       "name": "team-collaboration",
       "version": "1.2.2",
-      "path": "plugins/team-collaboration"
+      "source": "plugins/team-collaboration"
     }
   ]
 }
